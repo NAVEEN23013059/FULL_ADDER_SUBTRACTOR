@@ -70,6 +70,7 @@ or(carry,w2,w3,w4);
 
 endmodul
 **full subractor**
+
 module 
 
 fullsub_top(a,b,Bin,BO,DIFF);
